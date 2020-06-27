@@ -1,0 +1,8 @@
+src/*
+!src/txt.gitkeep
+
+nginx/logs/*
+!nginx/logs/txt.gitkeep
+
+mysql/*
+!mysql/txt.gitkeep
